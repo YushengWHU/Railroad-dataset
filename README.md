@@ -14,7 +14,7 @@ Topics
 /imu/data               IMU measurements provided by MTI-680G
 ```
 3.  Livox LiDAR, provided in rosbag format, gathered on several maintenance vehicles, inlcuding single lidar, multiple lidar datasets. </br>
-3.1. single LiDAR:</br>
+single LiDAR: </br>
 ![image](https://user-images.githubusercontent.com/40022787/161363343-01a6a8de-88d3-410c-ab33-332e1142d5ee.png)</br>
 links: </br>
 Topics:
@@ -22,7 +22,7 @@ Topics:
 /livox/lidar            Livox lidar in custom_msg format, note that both livox horizon and avia is included 
 /imu/data               IMU measurements provided by MTI-680G
 ```
-3.2. mutiple LiDAR:</br>
+4. mutiple LiDAR:</br>
 ![0c70d5fc6befd873355f9f51d787adb](https://user-images.githubusercontent.com/40022787/161363480-58f26153-53eb-4040-addb-5263c42966ba.jpg)</br>
 links: </br>
 Although up to 7 or 8 LiDARs are included in our system, we only provide the front two LiDARs information here due to safety regulations. </br>
